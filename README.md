@@ -55,7 +55,7 @@ shopping-cart-management/
 ├── shopping_cart.py
 └── README.md
 
-Attributes
+## Attributes
 
 | Attribute | Description |
 |---|---|
@@ -64,7 +64,7 @@ Attributes
 | `quantity` | Number of products |
 
 
-🛒 ShoppingCart Class
+## 🛒 ShoppingCart Class
 
 | Method | Purpose |
 |---|---|
@@ -76,7 +76,7 @@ Attributes
 | `remove_item()` | Removes a product |
 | `display()` | Displays cart contents |
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 This project can be extended into a complete e-commerce application by adding:
 - 👤 User registration and login
@@ -90,7 +90,7 @@ This project can be extended into a complete e-commerce application by adding:
 - 📧 Email notifications
 - 🖥️ Web interface using Flask/FastAPI
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this project, I practiced:
 - Python Object-Oriented Programming
@@ -105,9 +105,8 @@ Through this project, I practiced:
 - Conditional Statements
 - String Formatting
 - Real-world problem modeling
-- 🔑 Admin dashboard
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 Udayana Kunkuma Rekha
 Python Developer | ECE Graduate | Full-Stack & AI/ML Enthusiast
